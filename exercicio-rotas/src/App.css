@@ -4,7 +4,7 @@ nav{
     justify-content: center; 
     align-items: center;
     height: 8vh; 
-    background-color: royalblue;
+    background-color: darkblue;
     
     & a{color: white; font-size: 1.5em; padding: 15px; }
   }
