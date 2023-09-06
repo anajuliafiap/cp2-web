@@ -1,7 +1,7 @@
 import './App.css'
 import { Outlet } from 'react-router-dom'
-import Rodape from './components/Rodape'
-import Menu from './components/Menu'
+import Rodape from './componentes/Rodape.jsx'
+import Menu from './componentes/Menu.jsx'
 
 function App() {
 

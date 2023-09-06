@@ -4,9 +4,9 @@ nav{
     justify-content: center; 
     align-items: center;
     height: 8vh; 
-    background-color: pink;
+    background-color: royalblue;
     
-    & a{color: black; font-size: 1.5em; padding: 15px; }
+    & a{color: white; font-size: 1.5em; padding: 15px; }
   }
   
   main{ 
@@ -24,6 +24,6 @@ nav{
     justify-content: center;
     align-items: center; 
     height: 5vh;
-    background-color: blue;
+    background-color: darkblue;
   }
   
